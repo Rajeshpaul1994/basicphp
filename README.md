@@ -1,1 +1,5 @@
 # basicphp
+<?php
+echo "rajesh";
+
+?>
